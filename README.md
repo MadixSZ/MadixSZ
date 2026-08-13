@@ -24,8 +24,9 @@
         💼 Dedicada a construir layouts responsivos, focados em usabilidade, performance e boas práticas de desenvolvimento de software.
       </p>
     </td>
-    <td valign="top" width="35%" align="center">
-      <img src="gato.png" width="85%" alt="Tech Icon" style="margin-top: 30px;">
+    <td valign="middle" width="35%" align="center">
+      <!-- Corrigido para .jpg conforme seu repositório -->
+      <img src="./gato.jpg" width="85%" alt="Gato">
     </td>
   </tr>
 </table>
@@ -52,11 +53,4 @@
 <p align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=MadixSZ&show_icons=true&title_color=FF69B4&icon_color=FF69B4&text_color=FFFFFF&bg_color=000000&border_color=FF69B4&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" height="150">
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=MadixSZ&layout=compact&title_color=FF69B4&text_color=FFFFFF&bg_color=000000&border_color=FF69B4" alt="Linguagens mais usadas" height="150">
-</p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MadixSZ&layout=compact&theme=highcontrast" alt="Linguagens mais usadas" height="150">
-</p>
-
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=MadixSZ&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" height="150">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=MadixSZ&layout=compact&theme=highcontrast" alt="Linguagens mais usadas" height="150">
 </p>

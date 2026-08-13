@@ -1,5 +1,13 @@
-## Hi there 👋
+<p align="left">
+  <a href="[SEU_LINK_DO_LINKEDIN](https://www.linkedin.com/in/amandacosta-dev/)"><img src="https://img.shields.io/badge/LINKEDIN-black?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="amandascp11@gmail.com"><img src="https://img.shields.io/badge/GMAIL-black?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</p>
 
+<!-- Banner do topo -->
+<img src="Downloads/capa.jpg" width="100%" />
+
+<!-- Texto de introdução -->
+## Hey there! I'm Amanda 👋
 <!--
 **MadixSZ/MadixSZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
